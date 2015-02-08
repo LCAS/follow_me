@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+import os
 import time
 import math
 import rospy
@@ -45,7 +45,7 @@ def robot_base():
   
 # Below is the open and read file
     cord=[]
-    for line in open('/home/sinj/robot/src/second_method/script/cords3.txt'):
+    for line in open(os.path.dirname(os.path.realpath(__file__)) +'/cords3.txt'):
        cord.append(np.array([float(val) for val in line.rstrip('\n').split(' ') if val != '']))
        
     
