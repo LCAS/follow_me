@@ -1,0 +1,372 @@
+========== New participant ===============
+~~~ ID num = 29 ~~~
+ not spotted huamen 1 times in seek
+human spotted at 1.43424874913
+spotted huamen 1 times
+-2.12 seconds it took to spot human
+human spotted at 1.48567497483
+spotted huamen 2 times
+-2.57 seconds it took to spot human
+human spotted at 1.5919624539
+spotted huamen 3 times
+-2.25 seconds it took to spot human
+human spotted at 1.84046519761
+spotted huamen 4 times
+-2.77 seconds it took to spot human
+human spotted at 1.55307396071
+spotted huamen 5 times
+-2.78 seconds it took to spot human
+human spotted at 1.33596831149
+spotted huamen 6 times
+-2.45 seconds it took to spot human
+human spotted at 1.46894396732
+spotted huamen 7 times
+-2.05 seconds it took to spot human
+guide end, took -227.44 seconds
+guide end, took -3.79 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 77 ~~~
+human spotted at 1.30134192121
+spotted huamen 1 times
+-2.57 seconds it took to spot human
+human spotted at 1.17289002116
+spotted huamen 2 times
+-2.66 seconds it took to spot human
+human spotted at 1.08830834888
+spotted huamen 3 times
+-2.45 seconds it took to spot human
+human spotted at 1.40610824034
+spotted huamen 4 times
+-2.42 seconds it took to spot human
+human spotted at 1.45583311271
+spotted huamen 5 times
+-2.33 seconds it took to spot human
+human spotted at 0.884275044588
+spotted huamen 6 times
+-2.21 seconds it took to spot human
+guide end, took -207.78 seconds
+guide end, took -3.46 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 186 ~~~
+ not spotted huamen 1 times in seek
+human spotted at 1.96165757631
+spotted huamen 1 times
+-2.41 seconds it took to spot human
+ not spotted huamen 2 times in seek
+robot has failed to see human 1 times
+human spotted at 1.01141456111
+spotted huamen 2 times
+-2.40 seconds it took to spot human
+human spotted at 1.37724579836
+spotted huamen 3 times
+-2.54 seconds it took to spot human
+robot has failed to see human 2 times
+human spotted at 1.24643290787
+spotted huamen 4 times
+-2.93 seconds it took to spot human
+human spotted at 1.44037006277
+spotted huamen 5 times
+-2.32 seconds it took to spot human
+human spotted at 1.43695603805
+spotted huamen 6 times
+-2.37 seconds it took to spot human
+human spotted at 1.15985019874
+spotted huamen 7 times
+-2.50 seconds it took to spot human
+human spotted at 1.17215768206
+spotted huamen 8 times
+-2.47 seconds it took to spot human
+human spotted at 1.13917521448
+spotted huamen 9 times
+-2.74 seconds it took to spot human
+human spotted at 2.0001399572
+spotted huamen 10 times
+-2.35 seconds it took to spot human
+human spotted at 2.18582610454
+spotted huamen 11 times
+-2.13 seconds it took to spot human
+guide end, took -371.61 seconds
+guide end, took -6.19 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 190 ~~~
+human spotted at 1.26854230182
+spotted huamen 1 times
+-2.16 seconds it took to spot human
+human spotted at 1.27827017296
+spotted huamen 2 times
+-2.32 seconds it took to spot human
+human spotted at 1.4312033821
+spotted huamen 3 times
+-2.59 seconds it took to spot human
+human spotted at 1.15012808762
+spotted huamen 4 times
+-2.78 seconds it took to spot human
+human spotted at 1.19619744571
+spotted huamen 5 times
+-2.61 seconds it took to spot human
+human spotted at 1.34016107276
+spotted huamen 6 times
+-2.66 seconds it took to spot human
+guide end, took -220.40 seconds
+guide end, took -3.67 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 185 ~~~
+human spotted at 1.15282041628
+spotted huamen 1 times
+-2.72 seconds it took to spot human
+human spotted at 1.53809590484
+spotted huamen 2 times
+-2.81 seconds it took to spot human
+human spotted at 1.63211727104
+spotted huamen 3 times
+-2.92 seconds it took to spot human
+human spotted at 1.11437273704
+spotted huamen 4 times
+-2.59 seconds it took to spot human
+human spotted at 1.05271660401
+spotted huamen 5 times
+-2.46 seconds it took to spot human
+human spotted at 1.16052441321
+spotted huamen 6 times
+-2.53 seconds it took to spot human
+guide end, took -198.51 seconds
+guide end, took -3.31 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 117 ~~~
+ not spotted huamen 1 times in seek
+human spotted at 1.45939534395
+spotted huamen 1 times
+-2.52 seconds it took to spot human
+human spotted at 1.40969443525
+spotted huamen 2 times
+-2.10 seconds it took to spot human
+human spotted at 1.58499275234
+spotted huamen 3 times
+-2.54 seconds it took to spot human
+human spotted at 1.39244767995
+spotted huamen 4 times
+-2.17 seconds it took to spot human
+human spotted at 1.51371099318
+spotted huamen 5 times
+-2.64 seconds it took to spot human
+human spotted at 1.46867757298
+spotted huamen 6 times
+-2.56 seconds it took to spot human
+human spotted at 1.43891739318
+spotted huamen 7 times
+-2.52 seconds it took to spot human
+guide end, took -216.92 seconds
+guide end, took -3.62 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 29 ~~~
+ not spotted huamen 1 times in seek
+human spotted at 1.24277019713
+spotted huamen 1 times
+-2.60 seconds it took to spot human
+robot has failed to see human 1 times
+human spotted at 0.87197854934
+spotted huamen 2 times
+-2.03 seconds it took to spot human
+human spotted at 1.18989846971
+spotted huamen 3 times
+-2.52 seconds it took to spot human
+human spotted at 1.28037766499
+spotted huamen 4 times
+-2.04 seconds it took to spot human
+human spotted at 1.22699493085
+spotted huamen 5 times
+-2.07 seconds it took to spot human
+human spotted at 1.26648408924
+spotted huamen 6 times
+-2.12 seconds it took to spot human
+human spotted at 1.56199015144
+spotted huamen 7 times
+-2.21 seconds it took to spot human
+human spotted at 1.24446289123
+spotted huamen 8 times
+-2.41 seconds it took to spot human
+human spotted at 1.56916163865
+spotted huamen 9 times
+-2.62 seconds it took to spot human
+guide end, took -281.28 seconds
+guide end, took -4.69 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 113 ~~~
+ not spotted huamen 1 times in seek
+human spotted at 1.18354663133
+spotted huamen 1 times
+-2.41 seconds it took to spot human
+human spotted at 1.00705887582
+spotted huamen 2 times
+-2.52 seconds it took to spot human
+human spotted at 1.15115867552
+spotted huamen 3 times
+-2.95 seconds it took to spot human
+human spotted at 3.19458035983
+spotted huamen 4 times
+-6.99 seconds it took to spot human
+robot has failed to see human 1 times
+human spotted at 1.33175124524
+spotted huamen 5 times
+-3.14 seconds it took to spot human
+human spotted at 1.18734505465
+spotted huamen 6 times
+-2.34 seconds it took to spot human
+human spotted at 1.37692517782
+spotted huamen 7 times
+-2.98 seconds it took to spot human
+human spotted at 2.02417185095
+spotted huamen 8 times
+-3.13 seconds it took to spot human
+human spotted at 2.60553922898
+spotted huamen 9 times
+-2.72 seconds it took to spot human
+guide end, took -297.60 seconds
+guide end, took -4.96 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 79 ~~~
+human spotted at 1.20155212394
+spotted huamen 1 times
+-2.97 seconds it took to spot human
+human spotted at 1.77764456242
+spotted huamen 2 times
+-3.14 seconds it took to spot human
+human spotted at 1.07478994937
+spotted huamen 3 times
+-2.51 seconds it took to spot human
+human spotted at 1.29970885579
+spotted huamen 4 times
+-2.35 seconds it took to spot human
+human spotted at 1.24885865927
+spotted huamen 5 times
+-2.41 seconds it took to spot human
+human spotted at 1.41758675363
+spotted huamen 6 times
+-3.02 seconds it took to spot human
+guide end, took -206.69 seconds
+guide end, took -3.44 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 180 ~~~
+ not spotted huamen 1 times in seek
+human spotted at 1.05179465282
+spotted huamen 1 times
+-2.16 seconds it took to spot human
+human spotted at 1.21116900043
+spotted huamen 2 times
+-10.78 seconds it took to spot human
+human spotted at 1.97200977949
+spotted huamen 3 times
+-2.61 seconds it took to spot human
+human spotted at 1.28780361095
+spotted huamen 4 times
+-2.75 seconds it took to spot human
+human spotted at 1.44469632092
+spotted huamen 5 times
+-2.87 seconds it took to spot human
+human spotted at 1.07907865828
+spotted huamen 6 times
+-2.65 seconds it took to spot human
+human spotted at 1.24610535177
+spotted huamen 7 times
+-2.88 seconds it took to spot human
+guide end, took -223.39 seconds
+guide end, took -3.72 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 44 ~~~
+robot has failed to see human 1 times
+human spotted at 1.30501995261
+spotted huamen 1 times
+-2.12 seconds it took to spot human
+human spotted at 1.18291729533
+spotted huamen 2 times
+-2.63 seconds it took to spot human
+human spotted at 1.18966145487
+spotted huamen 3 times
+-2.40 seconds it took to spot human
+human spotted at 1.2770781936
+spotted huamen 4 times
+-2.47 seconds it took to spot human
+human spotted at 1.34295747955
+spotted huamen 5 times
+-2.54 seconds it took to spot human
+human spotted at 1.35228660053
+spotted huamen 6 times
+-2.32 seconds it took to spot human
+human spotted at 1.67394794727
+spotted huamen 7 times
+-2.51 seconds it took to spot human
+human spotted at 1.32642661994
+spotted huamen 8 times
+-2.49 seconds it took to spot human
+guide end, took -272.96 seconds
+guide end, took -4.55 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 59 ~~~
+human spotted at 1.2068793605
+spotted huamen 1 times
+-2.73 seconds it took to spot human
+human spotted at 1.16616417835
+spotted huamen 2 times
+-2.51 seconds it took to spot human
+human spotted at 1.8674319197
+spotted huamen 3 times
+-2.56 seconds it took to spot human
+human spotted at 1.09275751295
+spotted huamen 4 times
+-2.61 seconds it took to spot human
+human spotted at 1.149293109
+spotted huamen 5 times
+-2.53 seconds it took to spot human
+human spotted at 1.28182404601
+spotted huamen 6 times
+-2.64 seconds it took to spot human
+guide end, took -204.63 seconds
+guide end, took -3.41 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 190 ~~~
+human spotted at 1.25832695763
+spotted huamen 1 times
+-5.60 seconds it took to spot human
+human spotted at 2.130520169
+spotted huamen 2 times
+-2.33 seconds it took to spot human
+human spotted at 1.67256062392
+spotted huamen 3 times
+-2.55 seconds it took to spot human
+human spotted at 1.13047785011
+spotted huamen 4 times
+-2.44 seconds it took to spot human
+human spotted at 1.88735627518
+spotted huamen 5 times
+-2.64 seconds it took to spot human
+human spotted at 0.833996913612
+spotted huamen 6 times
+-2.62 seconds it took to spot human
+guide end, took -205.15 seconds
+guide end, took -3.42 seconds
+=========== end ======== 
+

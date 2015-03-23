@@ -1,0 +1,78 @@
+========== New participant ===============
+~~~ ID num = 70 ~~~
+guide end, took -199.67 seconds
+guide end, took -3.33 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 81 ~~~
+guide end, took -195.72 seconds
+guide end, took -3.26 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 110 ~~~
+guide end, took -206.99 seconds
+guide end, took -3.45 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 124 ~~~
+guide end, took -190.28 seconds
+guide end, took -3.17 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 99 ~~~
+guide end, took -192.74 seconds
+guide end, took -3.21 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 9 ~~~
+guide end, took -207.74 seconds
+guide end, took -3.46 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 181 ~~~
+guide end, took -192.41 seconds
+guide end, took -3.21 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 21 ~~~
+guide end, took -195.01 seconds
+guide end, took -3.25 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 55 ~~~
+guide end, took -197.23 seconds
+guide end, took -3.29 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 177 ~~~
+guide end, took -194.72 seconds
+guide end, took -3.25 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 18 ~~~
+guide end, took -189.45 seconds
+guide end, took -3.16 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 106 ~~~
+guide end, took -192.25 seconds
+guide end, took -3.20 seconds
+=========== end ======== 
+
+========== New participant ===============
+~~~ ID num = 178 ~~~
+guide end, took -203.81 seconds
+guide end, took -3.40 seconds
+=========== end ======== 
+
